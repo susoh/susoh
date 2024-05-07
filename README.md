@@ -7,5 +7,8 @@ You can click the Preview link to take a look at your changes.
 <h1>Tech Stack:</h1>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,discordjs,java,js,html,css,bootstrap,py,arduino,c,cs,cpp,nodejs"/>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
 </div>
