@@ -6,4 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Tech Stack:</h1>
 <br>
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw2geavKtdJR_Sya5NzXOfvj&ust=1715156027338000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCmsp-M-4UDFQAAAAAdAAAAABAE"></a>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=,discordjs,java,js,html,css,bootstrap,py,arduino,c,cs,cpp,nodejs"/>
+</div>
