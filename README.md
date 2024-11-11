@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susoh&label=Profile%20views&color=0e75b6&style=flat" alt="susoh" /> </p>
 - 👋 Hi, I’m @susoh
 - 🌱 I’m currently learning PHP and SQL;
 <!---
